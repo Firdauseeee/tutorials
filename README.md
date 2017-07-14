@@ -1,2 +1,2 @@
 # tutorials
-Repo for all files on the kitchen webpage
+Repo for all files on the tutorials webpage
